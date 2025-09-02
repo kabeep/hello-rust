@@ -11,5 +11,6 @@ fn main() {
     // common_programming_concepts::data_types::main();
     // common_programming_concepts::functions::main();
     // common_programming_concepts::comments::main();
-    common_programming_concepts::control_flow::main();
+    // common_programming_concepts::control_flow::main();
+    common_programming_concepts::practice::main();
 }
