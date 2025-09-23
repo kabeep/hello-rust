@@ -6,7 +6,7 @@ pub fn main() {
     print_labeled_measurement(5, 'h');
 
     // Statements & Expressions
-    let statement_var = 'e';
+    let statement_var = "Expressions";
     // let x = (let y = 6); // This is wrong, different from C / Ruby / JS
 
     // Block & Expression
