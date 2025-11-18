@@ -14,22 +14,22 @@ Learn with The Book "[The Rust Programming Language](https://doc.rust-lang.org/b
 
 ## 🔖 Chapters
 
-- [ ] The Rust Programming Language
-- [ ] Foreword
-- [ ] Introduction
-- [ ] 1. Getting Started
-  - [ ] 1.1. Installation
-  - [ ] 1.2. Hello, World!
-  - [ ] 1.3. Hello, Cargo!
-- [ ] 2. Programming a Guessing Game
-- [ ] 3. Common Programming Concepts
-  - [ ] 3.1. Variables and Mutability
-  - [ ] 3.2. Data Types
-  - [ ] 3.3. Functions
-  - [ ] 3.4. Comments
-  - [ ] 3.5. Control Flow
+- [x] The Rust Programming Language
+- [x] Foreword
+- [x] Introduction
+- [x] 1. Getting Started
+  - [x] 1.1. Installation
+  - [x] 1.2. Hello, World!
+  - [x] 1.3. Hello, Cargo!
+- [x] 2. Programming a Guessing Game
+- [x] 3. Common Programming Concepts
+  - [x] 3.1. Variables and Mutability
+  - [x] 3.2. Data Types
+  - [x] 3.3. Functions
+  - [x] 3.4. Comments
+  - [x] 3.5. Control Flow
 - [ ] 4. Understanding Ownership
-  - [ ] 4.1. What is Ownership?
+  - [x] 4.1. What is Ownership?
   - [ ] 4.2. References and Borrowing
   - [ ] 4.3. The Slice Type
 - [ ] 5. Using Structs to Structure Related Data
