@@ -31,7 +31,8 @@ Learn with The Book "[The Rust Programming Language](https://doc.rust-lang.org/b
 - [ ] 4. Understanding Ownership
   - [x] 4.1. What is Ownership?
   - [x] 4.2. References and Borrowing
-  - [ ] 4.3. The Slice Type
+  - [ ] 4.3. Fixing Ownership Errors
+  - [ ] 4.4. The Slice Type
 - [ ] 5. Using Structs to Structure Related Data
   - [ ] 5.1. Defining and Instantiating Structs
   - [ ] 5.2. An Example Program Using Structs

@@ -15,5 +15,6 @@ fn main() {
     // common_programming_concepts::control_flow::main();
     // common_programming_concepts::practice::main();
     // understanding_ownership::what_is_ownership::main();
-    understanding_ownership::references_and_borrowing::main();
+    // understanding_ownership::references_and_borrowing::main();
+    understanding_ownership::fixing_ownership_error::main();
 }
